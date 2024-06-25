@@ -1,7 +1,7 @@
 
 This is my simple chat app 👍
 
-99% is finish except chat inputbar css bc i'm too lazy now! 
+99% is finish except chat input bar css bc i'm too lazy now! 
 
 
 stack 🔨
