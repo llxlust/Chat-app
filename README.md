@@ -3,6 +3,8 @@ This is my simple chat app 👍
 
 stack 🔨
 (all is typescript 🔥)
+
+
 frontend
 - react
 - scss
