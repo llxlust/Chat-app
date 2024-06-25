@@ -1,0 +1,61 @@
+.hero{
+    flex:2;
+    height: 100%;
+    position:relative;
+}
+.sendBar{
+    position: absolute;
+    width: 100%;
+    height: 8vh;
+    background-color: #000;
+    bottom: 0;
+}
+.chatArea{
+    height: 88vh;
+    width: 100%;
+    font-size: 2rem;
+    padding: 50px 50px;
+}
+.selfContainer{
+    display: flex;
+    margin: 10px 0;
+    justify-content: end;
+    width: 100%;
+}
+.incomingContainer{
+    display: flex;
+    margin: 10px 0;
+    justify-content: start;
+    width: 100%;
+}
+.self{
+    width: fit-content;
+    color: black;
+    background-color: #8A05FF;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.incoming{
+    width: fit-content;
+    color: black;
+    background-color: #FFF;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.selfContainer > img{
+    margin-left: 1rem;
+}
+.incomingContainer > img{
+    margin-right: 1rem;
+}
+.time{
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    margin-top: 5px;
+    color: rgba(255, 255, 255, 0.585);
+}
